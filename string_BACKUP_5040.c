@@ -10,16 +10,19 @@ int my_strlen(char *s)
    return (p - s);
 }
 
-int function3()
-{
-	printf ("Added function3");
-}
-
+<<<<<<< HEAD
 
 int newmyfunc()
 {
 
 	prinf ("Added new function");
+=======
+int fundtion3()
+{
+
+
+	printf ("Added fuctions3");
+>>>>>>> 27cb8b7922a7763d2002d80087760c4748c285f6
 }
 
 

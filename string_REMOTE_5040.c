@@ -10,16 +10,11 @@ int my_strlen(char *s)
    return (p - s);
 }
 
-int function3()
-{
-	printf ("Added function3");
-}
-
-
-int newmyfunc()
+int fundtion3()
 {
 
-	prinf ("Added new function");
+
+	printf ("Added fuctions3");
 }
 
 
