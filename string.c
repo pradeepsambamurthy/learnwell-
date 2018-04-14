@@ -10,6 +10,14 @@ int my_strlen(char *s)
    return (p - s);
 }
 
+int fundtion3()
+{
+
+
+	printf ("Added fuctions3");
+}
+
+
 int main(void)
 {
    int i;
